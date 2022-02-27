@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Hollanders concerning, the English fleet now under the command of General Blake; with the rising of the people against their magistrates, and declaring for a war with England: and the States proclamation, prohibiting all merchants and sea-men to touch upon the English coasts. Also, Vantrumps putting forth to sea with one  hundred and seven men of war, and his orders and instructions given to the captains of his fleet. Likewise, the state of affairs in France, and declaring of the citizens of Paris rebels and traytors, by the King and councel. Together with the proceedings of the Parliaments forces in Ireland: sent in several letters from divers personages of honour to certain member of the Councel of State.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82166</idno>
+            <idno type="STC">Wing D688</idno>
+            <idno type="STC">Thomason E669_18</idno>
+            <idno type="STC">ESTC R207032</idno>
+            <idno type="EEBO-CITATION">99866107</idno>
+            <idno type="PROQUEST">99866107</idno>
+            <idno type="VID">118369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118369)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E669[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Hollanders concerning, the English fleet now under the command of General Blake; with the rising of the people against their magistrates, and declaring for a war with England: and the States proclamation, prohibiting all merchants and sea-men to touch upon the English coasts. Also, Vantrumps putting forth to sea with one  hundred and seven men of war, and his orders and instructions given to the captains of his fleet. Likewise, the state of affairs in France, and declaring of the citizens of Paris rebels and traytors, by the King and councel. Together with the proceedings of the Parliaments forces in Ireland: sent in several letters from divers personages of honour to certain member of the Councel of State.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 9th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Fronde --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118369:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE HOLLANDERS Concerning, The Engliſh Fleet now under the command of General Blake; With the Riſing of the people againſt their Ma<g ref="char:EOLhyphen"/>giſtrates, and declaring for a war with England: And the States Proclamation, prohibiting all Mer<g ref="char:EOLhyphen"/>chants and Sea-men to touch upon the Eng<g ref="char:EOLhyphen"/>liſh Coaſts.</p>
+            <p>Alſo, Vantrumps putting forth to Sea with one hundred and ſeven Men of War, and his Orders and Inſtructions given to the Captains of his Fleet.</p>
+            <p>LIKEWISE, The State of affairs in France, and the Declaring of the Ci<g ref="char:EOLhyphen"/>tizens of Paris Rebels and Traytors, by the King and Councel.</p>
+            <p>Together with the proceedings of the Parliaments Forces in Ireland: Sent in ſeveral Letters from divers perſonages of Honour to certain Member of the Councel of STATE.</p>
+            <p>
+               <add>July .9<hi rend="sup">th.</hi>
+               </add> 
+               <hi>LONDON:</hi> Printed by <hi>B. A.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118369:2"/>
+            <pb n="3" facs="tcp:118369:2"/>
+            <head>The DECLARATION Of the HOLLANDERS Concerning The Engliſh Fleet, and the States Proclamation prohibi<g ref="char:EOLhyphen"/>ting Merchants and Sea-men to touch upon the Coaſts of England.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe States of Holland find the people here to be ſo importunate and clamorous, and in eſpeciall manner the Zealanders, (who as if they were in a frenzy, talk high and rave) that they have been forced to publiſh in print the inſtructions which they gave to the Lord Hemſtead at his departure for England, (by which
+<pb n="4" facs="tcp:118369:3"/>we ſuppoſe our Embaſſadours are near home) he was principally to demand of the Parl. of England four con<g ref="char:EOLhyphen"/>ferences; therein, To excuſe the carriage of Admiral Vantrump towards the Engliſh Fleet upon the Downs, to deſire a ceſſation of all acts of hoſtility, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd a reſtaura<g ref="char:EOLhyphen"/>tion of all the ſhips taken by the Engliſh, and to bring the final anſwer and demands of the Parliament, and in caſe of delay upon the fourth conference to return back; this was the ſum of their inſtructions, by which it is plainly apparent, that he wanted power to conclude the Treaty, ſo that from his return we can gather no hope of peace foraſmuch as he and his fellows have performed their task, in diſcovering the ſtrength, counſels, and reſolutions of England.</p>
+            <p>The publiſhing of theſe inſtructions, ſeemed for the preſent to give ſom ſmall content to the people, allaying, but not extirpating their fury, which now boils in their breaſts more then before, inſomuch that nothing will now content them but a war with England, eſpecially the Zealanders, who ever were, and ſtill are more violent then the others. Their rage is come to ſo high a pitch, that they openly declare, that if their Deputies at the Hague return home, without letters of Mart for them againſt the Engliſh, they will kill them: the effects of their rage be<g ref="char:EOLhyphen"/>gins to break forth already; for as certain Officers went about in Middleburgh beating of drums for ſouldiers in the name of the States of Holland and Zealand, becauſe the Prince of Orange was not alſo named, a great tumult a roſe among the people, who laid violent hands upon the officers and drummers, and threw them into the water.</p>
+            <p>The Yonckers (alias Gent.) vapour much, and ſeem to ſet light by the power of the Engliſh at ſea, and have de<g ref="char:EOLhyphen"/>clared, <hi>That they have not yet ſhewed how formidable they are, becauſe they judge the Engliſh Fleet at ſea to be of ſmall
+<pb n="5" facs="tcp:118369:3"/>force and ſcarce worth the regarding; but yet if they conti<g ref="char:EOLhyphen"/>nue to take and ſeize their ſhips as now of late they have done, they will riſe up with all their power, and ſink, burn, and deſtroy them every one.</hi> This is their dayly talk, al<g ref="char:EOLhyphen"/>though they know, that if they had not had the help of the Engliſh, they had been long ago ſwallowed up by their enemies.</p>
+            <p>The States in the mean while, are not inſenſible of the danger approaching near them, as appears by their forti<g ref="char:EOLhyphen"/>fying of Scheveling, and many other places and building of forts round about them, to hin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and impede the lan<g ref="char:EOLhyphen"/>ding of the Engliſh, in caſe they ſhould prevail againſt their Fleet, and beat them; and to ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cure the Hague, which is defended with nothing but a graft and draw bridge. The Elector of Brandenburgh hath promiſed to aid them with ten thouſand men, although I believe he will hardly make good his promiſe, which ſprung onely out of a Bravado, by the perſwaſions either of the old Princeſs of Orange, his mother in law, or Count William his brother in law; his ſmall feats the laſt ſummer againſt the Duke of New<g ref="char:EOLhyphen"/>burgh diſcovers of what temper he is.</p>
+            <p>The States have publiſhed a Proclamation throughout all the Cities in Holland, wherein they prohibit all Mer<g ref="char:EOLhyphen"/>chants and ſea-men whoſe trade lies Weſt-ward, to paſſe any more by the Cliffs of Dover and Callis; but to leave that narrow Channel where they muſt needs be in dan<g ref="char:EOLhyphen"/>ger of ſhips, Ports and Caſtles, and ſo to ſteer about the Orkneys, not touching (if they can poſſibly avoid it) any of the Engliſh coaſts. But this is a very uncouth &amp; far fetcht paſſage, which our men who have taſted the ſweetneſs and convenience of your Harbours, are very ſenſible of.</p>
+            <p>Vantrump is out at ſea with three ſquadrons of ſhips conſiſting of about 70 ſail, which are to ſecure our Coaſt and trade with the fiſhing, if there be occaſion; beſides he
+<pb n="6" facs="tcp:118369:4"/>hath 24 ſhips which attend upon the Eaſt-India Fleet, all which, together with ſuch as are c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ming to him are 107 ſail, beſides fire ſhips, amongſt whom he hath given this order, That in caſe any one be attacht, and that the next might have relieved him and did not, that offendour ſhall die without mercy.</p>
+            <closer>
+               <dateline>Hague, <date>Iuly 3. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from the Lord Broghil to a Member of the Councel of State.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>IN my laſt, I gave you a full account of all our trea<g ref="char:EOLhyphen"/>ty in Kerry, with the Lord Muskerry and his party; ſince which I returned into the County of Cork, to ſend all requiſites to our forces in Kerry for reduction of Roſs, and to attend the Rebels in thoſe Faſtneſſes, where they had ſix hundred horſe, one Regiment of Dragoons, and one of Foot embodied, and every day freſh forces marching to joyn with them. This made me laſt Satur<g ref="char:EOLhyphen"/>day night with five good troops of Horſe, and five foot companies march towards them, reſolving to engage them in their Camp, if providence ſhould not offer a more promiſing place to do it in. The laſt Sabbath in the morning, under the favour of a miſt, after 22 miles march, we fell into their Camp, where the Lord owned us, and by us diſperſed all their force; but our men were ſo tyred, the countrey ſo bad, and the fog ſo thick, that the execution was followed above two miles, yet it was not bloudy; they loſt Mr. Herbert of horſe, and others:
+<pb n="7" facs="tcp:118369:4"/>We took near 100 horſe, two Colors, and a good quan<g ref="char:EOLhyphen"/>tity of arms, a prey of above 200 Beeves they had taken out of our quarters to ſupply Roſs with, which were re<g ref="char:EOLhyphen"/>turned freely to the Country people. We took Lievt. Col. <hi>Supple,</hi> one of their three Commanders in chief; a col. of horſe, and ſome troopers, this ſubmiſſion of the Lord Muskerry will probably reſtore this miſerable country to peace: We have now received letters that Slego is ſur<g ref="char:EOLhyphen"/>rendred to Sir Charls Coot, and that Clenrickard deſires ſome terms for himſelf and party. Alſo we have letters that Col. Ingoldsby, hath routed Col. Graces horſe, and ſurrounded his foot in a Bog.</p>
+            <closer>
+               <dateline>Cork <date>25 Iune 1652.</date>
+               </dateline>
+               <signed>Broghil.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from Major Smith.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE hear that Col. Ingoldsby hath lighted on Gra<g ref="char:EOLhyphen"/>ces party in a great Faſtneſs, after he was beaten of from Lougreah, which he attempted to ſtorm, but miſ<g ref="char:EOLhyphen"/>ſed, and loſt there about 80 men, Col. Ingoldsbies men diſputed the paſſe into the Faſtneſs near half an hour which was juſtified with 1200 foot, and 150 horſe of the enemies, but at length forced them, and killed up<g ref="char:EOLhyphen"/>wards of 200, about 60 horſe taken. Grace fled over the Shanon, Collonel Redman Seark, and Collonel Mac Gawley are killed, and ſome other field officers, beſides ſixe or ſeven Captains, ſome few priſoners were taken, which are with Collonel Abbot to exchange, we loſt but three men that we can hear of, and nine Dragoons woun<g ref="char:EOLhyphen"/>ded, with ſome few Troopers. It is hoped 1500 Iriſh will be ſhipt for Spain.</p>
+            <closer>
+               <dateline>Limrick. <date>Iune 23. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:118369:5"/>
+            <head>A Letter from Paris, dated <date>Iuly the 11, ſtilo novo.</date>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>In my laſt I acquainted you with the affairs here, and that an act of union was agreed upon between the Princes, Parliament, and City, againſt the Cardinal and his adherents, and conſequently againſt the King, It is now ſigned by all parties, and they have proceeded already to change many officers of State who favoured Mazarine, placing others of their own faction in their rooms, they are now about to make the Duke of Orleans Regent of the Kingdome, as ſoon as the Deputies of this Parliament are returned from the Court. All the great officers of the City are fled in much fear, (being Mazariniſts) to the Court; the King and Cardinal ſeem not to be greatly mo<g ref="char:EOLhyphen"/>ved at theſe things, but proceed to re-inforce their army which is much augmented by the addition of 3000 men under Gen. Roſa, who hath united himſelf to Marſhal Thuren. It is reported that ſome eminent perſons have been executed at St. Dennis by the Kings command, who with the advice of his Councel hath paſſed a ſentence, de<g ref="char:EOLhyphen"/>claring the City of Parts, and all others that ſhall adhere unto the Princes, Rebels and Traitors, and ſtill keepeth all proviſions from comming to the City, ſo that bread is exceſſive dear, but the Duke is providing 4000 horſe to be a guard for proviſions, that ſo the wants of the City may be ſupplied.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
